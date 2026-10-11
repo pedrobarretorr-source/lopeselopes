@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "escavadeira",
+    "nome": "Escavadeiras",
+    "icone": "esc",
+    "total": 27
+  },
+  {
+    "slug": "carregadeira",
+    "nome": "Carregadeiras",
+    "icone": "car",
+    "total": 24
+  },
+  {
+    "slug": "retroescavadeira",
+    "nome": "Retroescavadeiras",
+    "icone": "esc",
+    "total": 6
+  },
+  {
+    "slug": "motoniveladora",
+    "nome": "Motoniveladoras",
+    "icone": "niv",
+    "total": 5
+  },
+  {
+    "slug": "rolo",
+    "nome": "Rolos compactadores",
+    "icone": "rol",
+    "total": 7
+  },
+  {
+    "slug": "plataforma",
+    "nome": "Plataformas elevatórias",
+    "icone": "emp",
+    "total": 11
+  },
+  {
+    "slug": "empilhadeira",
+    "nome": "Empilhadeiras",
+    "icone": "emp",
+    "total": 18
+  },
+  {
+    "slug": "manipulador",
+    "nome": "Manipuladores telescópicos",
+    "icone": "emp",
+    "total": 5
+  },
+  {
+    "slug": "trator",
+    "nome": "Tratores",
+    "icone": "cam",
+    "total": 6
+  },
+  {
+    "slug": "reach-stacker",
+    "nome": "Reach stackers",
+    "icone": "emp",
+    "total": 1
+  },
+  {
+    "slug": "fresadora",
+    "nome": "Fresadoras",
+    "icone": "rol",
+    "total": 2
+  },
+  {
+    "slug": "guindaste",
+    "nome": "Guindastes",
+    "icone": "gui",
+    "total": 8
+  },
+  {
+    "slug": "caminhao",
+    "nome": "Caminhões",
+    "icone": "cam",
+    "total": 9
+  },
+  {
+    "slug": "pavimentadora",
+    "nome": "Pavimentadoras",
+    "icone": "rol",
+    "total": 1
+  },
+  {
+    "slug": "recicladora",
+    "nome": "Recicladoras",
+    "icone": "rol",
+    "total": 2
+  },
+  {
+    "slug": "antigas",
+    "nome": "Máquinas de gerações anteriores",
+    "icone": "esc",
+    "total": 21
+  }
+]
